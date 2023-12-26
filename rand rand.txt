@@ -1,0 +1,6 @@
+import random
+number= random.randint(1,99)
+while id!=d :
+        
+    id=input('If it is bigger type b;  If it is smaller type s; if it is equal type e')
+    if id=
